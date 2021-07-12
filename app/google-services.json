@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "428184604355",
+    "firebase_url": "https://xploiters-218fe.firebaseio.com",
+    "project_id": "xploiters-218fe",
+    "storage_bucket": "xploiters-218fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428184604355:android:766e5781a179cb98b59c76",
+        "android_client_info": {
+          "package_name": "com.jayu.devinceptmks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428184604355-rnhf7hdsbq7qva8ujf7pq5bbvj6vvcp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZSNdMioj9wtwoUV_pMXn7FhqkGSYNzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428184604355-rnhf7hdsbq7qva8ujf7pq5bbvj6vvcp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428184604355:android:eac4de8a5cfa29ecb59c76",
+        "android_client_info": {
+          "package_name": "com.jayu.xploitersmovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428184604355-rnhf7hdsbq7qva8ujf7pq5bbvj6vvcp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZSNdMioj9wtwoUV_pMXn7FhqkGSYNzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428184604355-rnhf7hdsbq7qva8ujf7pq5bbvj6vvcp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
